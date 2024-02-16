@@ -1,1 +1,1 @@
-# Selenium_SwagLab_Ide
+# Selenium_SwagLab case'leri SeleniumIDE ile kosuldu.
